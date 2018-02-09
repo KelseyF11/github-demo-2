@@ -1,0 +1,41 @@
+// Colors: Greyscale
+$black: #000;
+$grey-1: lighten($black, 10%);
+$grey-2: lighten($black, 20%);
+$grey-3: lighten($black, 30%);
+$grey-4: lighten($black, 40%);
+$grey-5: lighten($black, 50%);
+$grey-6: lighten($black, 60%);
+$grey-7: lighten($black, 70%);
+$grey-8: lighten($black, 80%);
+$grey-9: lighten($black, 90%);
+$white: #fff;
+$red: #d00d2d; 
+$orange: #ff8a37;
+$orange-dark: darken($orange, 10%);
+
+
+
+// Colors: Fonts
+$font-color-default: $orange;
+
+// Button Variables//
+
+// $button-padding: 5px;
+// $button-margin: 2px;
+// $button-border-radius: 4px;
+// $button-box-shadow: 0 2px 2px;
+
+// $button-bg: $orange;
+// $button-bg-hover: #bd5a14;
+
+
+
+// Spacing Variables
+
+$spacing: 10px;
+$spacing-2: $spacing * 1.5;
+$spacing-3: $spacing * 2; 
+$spacing-4: $spacing * 3; 
+$spacing-5: $spacing * 4; 
+$spacing-6: $spacing * 6; 
